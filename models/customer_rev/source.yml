@@ -1,7 +1,7 @@
 sources:
   - name: landing
     database: OMS_ANALYTICS
-    schema: LANDING_OMS_CORE
+    schema: OMS_CORE
 
     tables:
       - name: customers
