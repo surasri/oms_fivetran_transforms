@@ -4,10 +4,10 @@ sources:
     schema: '"oms_core"'
     tables:
       - name: customers
-        identifier: customers
+        identifier: '"customers"'
       - name: orders
-        identifier: orders
+        identifier: '"orders"'
       - name: orderitems
-        identifier: orderitems
+        identifier: '"orderitems"'
       - name: employees
-        identifier: employees
+        identifier: '"employees"'
